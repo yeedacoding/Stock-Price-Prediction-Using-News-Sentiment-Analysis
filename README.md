@@ -1,1 +1,1 @@
-# Stock Price Prediction Using Sentiment Analysis from News Headlines
+# Predicting Stock Price Movement Using Sentiment Analysis from News
