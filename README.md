@@ -76,5 +76,5 @@
 <p align="center"><img width="711" alt="image" src="https://github.com/user-attachments/assets/088b346a-cf31-4e40-baad-5be79bca26e8" /></p>
 
 
-## 📒 PPT 및 개발일지
-
+## 📒 PPT
+[프로젝트 PPT](https://drive.google.com/file/d/1VzYU_JHxqkERDMGDOsTfCjAM3ex-IKPT/view?usp=sharing)
