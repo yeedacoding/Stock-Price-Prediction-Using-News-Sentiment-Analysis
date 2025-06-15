@@ -77,4 +77,4 @@
 
 
 ## 📒 PPT
-[프로젝트 PPT](https://drive.google.com/file/d/1ox-IIV84uSkhtHlyawGxVxfyfz9XQVnW/view?usp=sharing)
+[프로젝트 PPT](https://drive.google.com/file/d/1-UwVvEwKsejfA5_ka0m4Z_HajsyrvB9P/view?usp=sharing)
